@@ -1,4 +1,4 @@
-**This is not a official template**
+**This is not an official template**
 
 **这不是一个官方的模板**
 
