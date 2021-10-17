@@ -19,4 +19,7 @@ git clone https://github.com/dqhl76/BDIC-Physics-Homework-template.git
 
 ---
 
+### Demo
+![image.png](https://i.loli.net/2021/10/17/D1arfBPCd7LTkjY.png)
+![image.png](https://i.loli.net/2021/10/17/5ASgpP9Iloztj1E.png)
 
